@@ -7,5 +7,5 @@
 
 
 
-This project in the link is built without a backend just to show the UI and working. 
+This project in the link is built without backend just to show the UI and working of the application. 
 [Link to the project](https://vamsi-makke-emi-calculator.netlify.app/)
