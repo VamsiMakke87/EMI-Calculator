@@ -1,1 +1,1 @@
-# emi-calculato
+# emi-calculator
